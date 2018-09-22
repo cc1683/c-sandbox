@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537623389 source:/home/luis/projects/training/c-sandbox/000-HelloWorld/main.c
+	<stdio.h>
+	<stdlib.h>
+
